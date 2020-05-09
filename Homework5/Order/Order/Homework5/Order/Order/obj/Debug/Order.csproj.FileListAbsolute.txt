@@ -1,0 +1,13 @@
+E:\vscode\Order\Order\bin\Debug\Order.exe.config
+E:\vscode\Order\Order\bin\Debug\Order.exe
+E:\vscode\Order\Order\bin\Debug\Order.pdb
+E:\vscode\Order\Order\obj\Debug\Order.csprojAssemblyReference.cache
+E:\vscode\Order\Order\obj\Debug\Order.exe
+E:\vscode\Order\Order\obj\Debug\Order.pdb
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework5\Order\Order\bin\Debug\Order.exe.config
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework5\Order\Order\bin\Debug\Order.exe
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework5\Order\Order\bin\Debug\Order.pdb
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework5\Order\Order\obj\Debug\Order.csprojAssemblyReference.cache
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework5\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework5\Order\Order\obj\Debug\Order.exe
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework5\Order\Order\obj\Debug\Order.pdb

@@ -1,0 +1,13 @@
+E:\vscode\Clock\Clock\bin\Debug\Clock.exe.config
+E:\vscode\Clock\Clock\bin\Debug\Clock.exe
+E:\vscode\Clock\Clock\bin\Debug\Clock.pdb
+E:\vscode\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+E:\vscode\Clock\Clock\obj\Debug\Clock.exe
+E:\vscode\Clock\Clock\obj\Debug\Clock.pdb
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework4\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework4\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework4\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework4\Clock\Clock\obj\Debug\Clock.pdb
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework4\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework4\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\a3513\Desktop\Projects\CSharpHomework-master\Homework4\Clock\Clock\bin\Debug\Clock.pdb
